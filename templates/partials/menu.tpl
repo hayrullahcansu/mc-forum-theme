@@ -241,7 +241,7 @@
 				<!-- ELSE -->
 				<ul class="nav navbar-nav navbar-right">
 					<li>
-						<a href="{relative_path}/login">
+						<a href="https://musicoin.org/login">
 							<i class="fa fa-sign-in visible-xs-inline"></i>
 							<span>[[global:login]]</span>
 						</a>
